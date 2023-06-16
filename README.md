@@ -8,6 +8,9 @@ Criação de um formulário de consultoria CRUD em Python com SQLite, constando 
 Realizado no ambiente virtual pipenv shell (pip install pipenv) 
 Estilização: Tkinter
 
+<img alt="formulario" height="300" width="400" src="./img_formulario.png">
+
+
 
 ## 💻 Tecnologias 
 
