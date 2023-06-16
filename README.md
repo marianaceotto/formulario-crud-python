@@ -5,11 +5,12 @@
 Criação de um formulário de consultoria CRUD em Python com SQLite, constando nome, e-mail, telefone, data da consulta, estado da consulta e comentários, no qual é possível realizar cadastro, atualizar dados e deletar usuários.
 
 
-Realizado no ambiente virtual pipenv shell (pip install pipenv) 
+Realizado no ambiente virtual pipenv shell (pip install pipenv) <br>
 Estilização: Tkinter
 
-<img alt="formulario" height="300" width="400" src="./img_formulario.png">
+##
 
+<img alt="formulario" height="300" width="400" src="./img_formulario.png">
 
 
 ## 💻 Tecnologias 
